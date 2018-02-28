@@ -1,0 +1,23 @@
+{
+  "name": "douban-trailer",
+  "version": "1.0.0",
+  "description": "demo for koa2",
+  "main": "server/index.js",
+  "scripts": {
+    "start":"node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yzq739291773:qaz159357@github.com/yzq739291773/douban-trailer.git"
+  },
+  "author": "yzq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yzq739291773/douban-trailer/issues"
+  },
+  "homepage": "https://github.com/yzq739291773/douban-trailer#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
